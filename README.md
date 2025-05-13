@@ -9,10 +9,15 @@ Features:-
 User Panel
 
 User Registration and Login
+
 Browse books by category
+
 Book search & filters
+
 View detailed book information
+
 Place orders (COD)
+
 View past orders in profile
 
 Admin Panel
