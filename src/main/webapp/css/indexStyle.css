@@ -1,0 +1,83 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+:root{
+    /* --bg: #c5856a; */
+    --bg: #121212;
+    --text-col: #ffffff;
+    --btn-bg:rgba(255, 255, 255, 0.263);
+
+}
+
+.container{
+       /* border: 2px solid black; */
+       background-image: url('../images/pexels-technobulka-2908984.jpg');
+       background-position: center;
+       background-size: cover;
+       width: 100%;
+       height: 717px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: absolute;
+}
+
+.box1 {
+    border: 2px solid white;
+    position: relative;
+    top: 25%;
+    color: var(--text-col);
+    background-color: #00000059;
+    padding: 50px;
+    margin: auto;
+    width: 54%;
+    text-align: center;
+}
+
+.text1 {
+    font-size: 40px;
+}
+
+.text1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    line-height: 1.7;
+}
+
+.box2 {
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.btn {
+
+    padding: 5px 60px;
+    font-size: 25px;
+    cursor: pointer;
+    text-transform: capitalize;
+    text-decoration: none;
+    border: 2px solid var(--text-col);
+    color: var(--text-col);
+    background-color: var(--btn-bg);
+}
+
+.btn:hover{
+    border: 2px solid var();
+    color: var(--text-col);
+    background-color: var(--bg);
+    
+    /* border: 2px solid white;
+    color: white;#c5856a;
+    background-color: rgba(255, 255, 255, 0.263); */
+}
