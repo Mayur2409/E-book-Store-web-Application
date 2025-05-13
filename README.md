@@ -1,13 +1,13 @@
 # E-book-Store-web-Application
 Author- Mayur Prajapati
 
-Project Overview
+#Project Overview
 
-  The E-Book Store is a dynamic web application that simulates an online bookstore. Users can register, browse and purchase books using Cash on Delivery (COD). Admins have the ability to manage categories, books, and orders through a dedicated dashboard.
+   The E-Book Store is a dynamic web application that simulates an online bookstore. Users can register, browse and purchase books using Cash on Delivery (COD). Admins have the ability to manage categories, books, and orders through a dedicated dashboard.
 
-Features:-
+#Features:-
 
-User Panel
+#User Panel
 
   User Registration and Login
 
@@ -22,7 +22,7 @@ User Panel
   View past orders in profile
 
 
-Admin Panel
+#Admin Panel
 
   Admin Login
 
@@ -35,7 +35,7 @@ Admin Panel
   Update Order Status (e.g., Pending, Shipped, Delivered)
 
 
-Technologies Used
+#Technologies Used
 
   Frontend: HTML, CSS
   
